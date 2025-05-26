@@ -279,34 +279,6 @@
       "validToDt": "2026-01-05",
       "validFlg": "validFlg 20",
       "vatType": "vatType 20"
-    },  
-    {
-      "id": "21",
-      "tenantId": "tenantId 21",
-      "coCd": "coCd 21",
-      "itemCd": "itemCd 21",
-      "itemNm": "itemNm 21",
-      "formalNm": "formalNm 21",
-      "spec": "spec 21",
-      "drawNo": "drawNo 21",
-      "validFromDt": "2025-09-20",
-      "validToDt": "2025-09-20",
-      "validFlg": "validFlg 21",
-      "vatType": "vatType 21"
-    },
-    {
-      "id": "22",
-      "tenantId": "tenantId 22",
-      "coCd": "coCd 22",
-      "itemCd": "itemCd 22",
-      "itemNm": "itemNm 22",
-      "formalNm": "formalNm 22",
-      "spec": "spec 22",
-      "drawNo": "drawNo 22",
-      "validFromDt": "2025-09-20",
-      "validToDt": "2025-09-20",
-      "validFlg": "validFlg 22",
-      "vatType": "vatType 22"
     }
   ],
   "profile": {
