@@ -307,48 +307,6 @@
       "validToDt": "2025-09-20",
       "validFlg": "validFlg 22",
       "vatType": "vatType 22"
-    },
-    {
-      "id": "23",
-      "tenantId": "tenantId 23",
-      "coCd": "coCd 23",
-      "itemCd": "itemCd 23",
-      "itemNm": "itemNm 23",
-      "formalNm": "formalNm 23",
-      "spec": "spec 23",
-      "drawNo": "drawNo 23",
-      "validFromDt": "2025-09-20",
-      "validToDt": "2025-09-20",
-      "validFlg": "validFlg 23",
-      "vatType": "vatType 23"
-    },
-    {
-      "id": "24",
-      "tenantId": "tenantId 24",
-      "coCd": "coCd 24",
-      "itemCd": "itemCd 24",
-      "itemNm": "itemNm 24",
-      "formalNm": "formalNm 24",
-      "spec": "spec 24",
-      "drawNo": "drawNo 24",
-      "validFromDt": "2025-09-20",
-      "validToDt": "2025-09-20",
-      "validFlg": "validFlg 24",
-      "vatType": "vatType 24"
-    },
-    {
-      "id": "25",
-      "tenantId": "tenantId 25",
-      "coCd": "coCd 25",
-      "itemCd": "itemCd 25",
-      "itemNm": "itemNm 25",
-      "formalNm": "formalNm 25",
-      "spec": "spec 25",
-      "drawNo": "drawNo 25",
-      "validFromDt": "2025-09-20",
-      "validToDt": "2025-09-20",
-      "validFlg": "validFlg 25",
-      "vatType": "vatType 25"
     }
   ],
   "profile": {
